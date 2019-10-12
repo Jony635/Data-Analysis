@@ -1,3 +1,5 @@
+create or replace view DAU as
+
 select 
 date(d.date) as "Date",
 count(distinct s.player_id) as "Distinct Active Users"

@@ -1,0 +1,1514 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>9225</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Table1">
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="366" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="110.25"/>
+   <Row>
+    <Cell><Data ss:Type="String">Date</Data></Cell>
+    <Cell><Data ss:Type="String">Stickiness</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-01-01</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-01-02</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-01-03</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-01-04</Data></Cell>
+    <Cell><Data ss:Type="Number">0.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-01-05</Data></Cell>
+    <Cell><Data ss:Type="Number">0.4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-01-06</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-01-07</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-01-08</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-01-09</Data></Cell>
+    <Cell><Data ss:Type="Number">0.45</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-01-10</Data></Cell>
+    <Cell><Data ss:Type="Number">6.9000000000000006E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-01-11</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-01-12</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-01-13</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-01-14</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-01-15</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-01-16</Data></Cell>
+    <Cell><Data ss:Type="Number">6.9000000000000006E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-01-17</Data></Cell>
+    <Cell><Data ss:Type="Number">6.4500000000000002E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-01-18</Data></Cell>
+    <Cell><Data ss:Type="Number">6.0600000000000001E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-01-19</Data></Cell>
+    <Cell><Data ss:Type="Number">5.7099999999999998E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-01-20</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-01-21</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-01-22</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-01-23</Data></Cell>
+    <Cell><Data ss:Type="Number">0.37840000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-01-24</Data></Cell>
+    <Cell><Data ss:Type="Number">0.31369999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-01-25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.21540000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-01-26</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1772</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-01-27</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-01-28</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-01-29</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-01-30</Data></Cell>
+    <Cell><Data ss:Type="Number">8.5999999999999993E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-01-31</Data></Cell>
+    <Cell><Data ss:Type="Number">7.9200000000000007E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-02-01</Data></Cell>
+    <Cell><Data ss:Type="Number">8.2600000000000007E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-02-02</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-02-03</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-02-04</Data></Cell>
+    <Cell><Data ss:Type="Number">9.7000000000000003E-3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-02-05</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-02-06</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3402</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-02-07</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1154</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-02-08</Data></Cell>
+    <Cell><Data ss:Type="Number">9.2299999999999993E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-02-09</Data></Cell>
+    <Cell><Data ss:Type="Number">4.07E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-02-10</Data></Cell>
+    <Cell><Data ss:Type="Number">6.6100000000000006E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-02-11</Data></Cell>
+    <Cell><Data ss:Type="Number">4.9599999999999998E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-02-12</Data></Cell>
+    <Cell><Data ss:Type="Number">5.79E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-02-13</Data></Cell>
+    <Cell><Data ss:Type="Number">0.41320000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-02-14</Data></Cell>
+    <Cell><Data ss:Type="Number">0.38100000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-02-15</Data></Cell>
+    <Cell><Data ss:Type="Number">0.36280000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-02-16</Data></Cell>
+    <Cell><Data ss:Type="Number">0.14230000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-02-17</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1081</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-02-18</Data></Cell>
+    <Cell><Data ss:Type="Number">5.0200000000000002E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-02-19</Data></Cell>
+    <Cell><Data ss:Type="Number">5.45E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-02-20</Data></Cell>
+    <Cell><Data ss:Type="Number">7.3899999999999993E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-02-21</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1208</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-02-22</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1011</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-02-23</Data></Cell>
+    <Cell><Data ss:Type="Number">8.7599999999999997E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-02-24</Data></Cell>
+    <Cell><Data ss:Type="Number">5.1900000000000002E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-02-25</Data></Cell>
+    <Cell><Data ss:Type="Number">4.65E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-02-26</Data></Cell>
+    <Cell><Data ss:Type="Number">3.6700000000000003E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-02-27</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1694</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-02-28</Data></Cell>
+    <Cell><Data ss:Type="Number">0.18090000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-03-01</Data></Cell>
+    <Cell><Data ss:Type="Number">0.18240000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-03-02</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2175</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-03-03</Data></Cell>
+    <Cell><Data ss:Type="Number">0.10050000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-03-04</Data></Cell>
+    <Cell><Data ss:Type="Number">5.96E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-03-05</Data></Cell>
+    <Cell><Data ss:Type="Number">4.6100000000000002E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-03-06</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1056</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-03-07</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1135</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-03-08</Data></Cell>
+    <Cell><Data ss:Type="Number">6.0199999999999997E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-03-09</Data></Cell>
+    <Cell><Data ss:Type="Number">5.9900000000000002E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-03-10</Data></Cell>
+    <Cell><Data ss:Type="Number">4.7500000000000001E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-03-11</Data></Cell>
+    <Cell><Data ss:Type="Number">4.7899999999999998E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-03-12</Data></Cell>
+    <Cell><Data ss:Type="Number">2.5399999999999999E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-03-13</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1951</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-03-14</Data></Cell>
+    <Cell><Data ss:Type="Number">0.21110000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-03-15</Data></Cell>
+    <Cell><Data ss:Type="Number">0.23169999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-03-16</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1215</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-03-17</Data></Cell>
+    <Cell><Data ss:Type="Number">6.2799999999999995E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-03-18</Data></Cell>
+    <Cell><Data ss:Type="Number">4.36E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-03-19</Data></Cell>
+    <Cell><Data ss:Type="Number">6.1100000000000002E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-03-20</Data></Cell>
+    <Cell><Data ss:Type="Number">8.2400000000000001E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-03-21</Data></Cell>
+    <Cell><Data ss:Type="Number">7.6799999999999993E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-03-22</Data></Cell>
+    <Cell><Data ss:Type="Number">8.2500000000000004E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-03-23</Data></Cell>
+    <Cell><Data ss:Type="Number">5.21E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-03-24</Data></Cell>
+    <Cell><Data ss:Type="Number">2.7300000000000001E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-03-25</Data></Cell>
+    <Cell><Data ss:Type="Number">3.8199999999999998E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-03-26</Data></Cell>
+    <Cell><Data ss:Type="Number">4.0300000000000002E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-03-27</Data></Cell>
+    <Cell><Data ss:Type="Number">0.30380000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-03-28</Data></Cell>
+    <Cell><Data ss:Type="Number">0.31769999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-03-29</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1384</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-03-30</Data></Cell>
+    <Cell><Data ss:Type="Number">8.9099999999999999E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-03-31</Data></Cell>
+    <Cell><Data ss:Type="Number">6.3899999999999998E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-04-01</Data></Cell>
+    <Cell><Data ss:Type="Number">5.67E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-04-02</Data></Cell>
+    <Cell><Data ss:Type="Number">4.8099999999999997E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-04-03</Data></Cell>
+    <Cell><Data ss:Type="Number">7.3099999999999998E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-04-04</Data></Cell>
+    <Cell><Data ss:Type="Number">9.64E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-04-05</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1114</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-04-06</Data></Cell>
+    <Cell><Data ss:Type="Number">5.9400000000000001E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-04-07</Data></Cell>
+    <Cell><Data ss:Type="Number">4.1300000000000003E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-04-08</Data></Cell>
+    <Cell><Data ss:Type="Number">4.4999999999999998E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-04-09</Data></Cell>
+    <Cell><Data ss:Type="Number">4.0800000000000003E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-04-10</Data></Cell>
+    <Cell><Data ss:Type="Number">0.23130000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-04-11</Data></Cell>
+    <Cell><Data ss:Type="Number">0.251</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-04-12</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1234</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-04-13</Data></Cell>
+    <Cell><Data ss:Type="Number">8.0100000000000005E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-04-14</Data></Cell>
+    <Cell><Data ss:Type="Number">6.8400000000000002E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-04-15</Data></Cell>
+    <Cell><Data ss:Type="Number">5.2400000000000002E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-04-16</Data></Cell>
+    <Cell><Data ss:Type="Number">6.8099999999999994E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-04-17</Data></Cell>
+    <Cell><Data ss:Type="Number">0.14119999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-04-18</Data></Cell>
+    <Cell><Data ss:Type="Number">0.15140000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-04-19</Data></Cell>
+    <Cell><Data ss:Type="Number">8.8499999999999995E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-04-20</Data></Cell>
+    <Cell><Data ss:Type="Number">6.25E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-04-21</Data></Cell>
+    <Cell><Data ss:Type="Number">4.9799999999999997E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-04-22</Data></Cell>
+    <Cell><Data ss:Type="Number">4.8099999999999997E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-04-23</Data></Cell>
+    <Cell><Data ss:Type="Number">4.1599999999999998E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-04-24</Data></Cell>
+    <Cell><Data ss:Type="Number">5.0999999999999997E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-04-25</Data></Cell>
+    <Cell><Data ss:Type="Number">5.6000000000000001E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-04-26</Data></Cell>
+    <Cell><Data ss:Type="Number">5.96E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-04-27</Data></Cell>
+    <Cell><Data ss:Type="Number">6.7500000000000004E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-04-28</Data></Cell>
+    <Cell><Data ss:Type="Number">4.8899999999999999E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-04-29</Data></Cell>
+    <Cell><Data ss:Type="Number">3.9899999999999998E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-04-30</Data></Cell>
+    <Cell><Data ss:Type="Number">3.3000000000000002E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-05-01</Data></Cell>
+    <Cell><Data ss:Type="Number">0.16550000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-05-02</Data></Cell>
+    <Cell><Data ss:Type="Number">0.19639999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-05-03</Data></Cell>
+    <Cell><Data ss:Type="Number">8.9300000000000004E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-05-04</Data></Cell>
+    <Cell><Data ss:Type="Number">7.4399999999999994E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-05-05</Data></Cell>
+    <Cell><Data ss:Type="Number">5.7299999999999997E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-05-06</Data></Cell>
+    <Cell><Data ss:Type="Number">5.9400000000000001E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-05-07</Data></Cell>
+    <Cell><Data ss:Type="Number">5.4800000000000001E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-05-08</Data></Cell>
+    <Cell><Data ss:Type="Number">5.8599999999999999E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-05-09</Data></Cell>
+    <Cell><Data ss:Type="Number">6.8099999999999994E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-05-10</Data></Cell>
+    <Cell><Data ss:Type="Number">6.3299999999999995E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-05-11</Data></Cell>
+    <Cell><Data ss:Type="Number">5.57E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-05-12</Data></Cell>
+    <Cell><Data ss:Type="Number">4.2099999999999999E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-05-13</Data></Cell>
+    <Cell><Data ss:Type="Number">5.1999999999999998E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-05-14</Data></Cell>
+    <Cell><Data ss:Type="Number">4.4200000000000003E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-05-15</Data></Cell>
+    <Cell><Data ss:Type="Number">7.5999999999999998E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-05-16</Data></Cell>
+    <Cell><Data ss:Type="Number">8.09E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-05-17</Data></Cell>
+    <Cell><Data ss:Type="Number">8.5199999999999998E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-05-18</Data></Cell>
+    <Cell><Data ss:Type="Number">6.8000000000000005E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-05-19</Data></Cell>
+    <Cell><Data ss:Type="Number">5.9499999999999997E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-05-20</Data></Cell>
+    <Cell><Data ss:Type="Number">4.1500000000000002E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-05-21</Data></Cell>
+    <Cell><Data ss:Type="Number">5.5500000000000001E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-05-22</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1188</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-05-23</Data></Cell>
+    <Cell><Data ss:Type="Number">7.4700000000000003E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-05-24</Data></Cell>
+    <Cell><Data ss:Type="Number">4.58E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-05-25</Data></Cell>
+    <Cell><Data ss:Type="Number">4.3499999999999997E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-05-26</Data></Cell>
+    <Cell><Data ss:Type="Number">4.1399999999999999E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-05-27</Data></Cell>
+    <Cell><Data ss:Type="Number">4.5999999999999999E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-05-28</Data></Cell>
+    <Cell><Data ss:Type="Number">4.7E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-05-29</Data></Cell>
+    <Cell><Data ss:Type="Number">0.32329999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-05-30</Data></Cell>
+    <Cell><Data ss:Type="Number">9.3100000000000002E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-05-31</Data></Cell>
+    <Cell><Data ss:Type="Number">7.5999999999999998E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-06-01</Data></Cell>
+    <Cell><Data ss:Type="Number">5.2900000000000003E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-06-02</Data></Cell>
+    <Cell><Data ss:Type="Number">5.9499999999999997E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-06-03</Data></Cell>
+    <Cell><Data ss:Type="Number">4.3299999999999998E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-06-04</Data></Cell>
+    <Cell><Data ss:Type="Number">3.4500000000000003E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-06-05</Data></Cell>
+    <Cell><Data ss:Type="Number">7.5600000000000001E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-06-06</Data></Cell>
+    <Cell><Data ss:Type="Number">8.4199999999999997E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-06-07</Data></Cell>
+    <Cell><Data ss:Type="Number">9.4399999999999998E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-06-08</Data></Cell>
+    <Cell><Data ss:Type="Number">8.0799999999999997E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-06-09</Data></Cell>
+    <Cell><Data ss:Type="Number">6.3600000000000004E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-06-10</Data></Cell>
+    <Cell><Data ss:Type="Number">4.07E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-06-11</Data></Cell>
+    <Cell><Data ss:Type="Number">4.6800000000000001E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-06-12</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1178</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-06-13</Data></Cell>
+    <Cell><Data ss:Type="Number">0.12280000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-06-14</Data></Cell>
+    <Cell><Data ss:Type="Number">0.13220000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-06-15</Data></Cell>
+    <Cell><Data ss:Type="Number">8.9700000000000002E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-06-16</Data></Cell>
+    <Cell><Data ss:Type="Number">6.8000000000000005E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-06-17</Data></Cell>
+    <Cell><Data ss:Type="Number">4.5199999999999997E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-06-18</Data></Cell>
+    <Cell><Data ss:Type="Number">4.6199999999999998E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-06-19</Data></Cell>
+    <Cell><Data ss:Type="Number">6.0400000000000002E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-06-20</Data></Cell>
+    <Cell><Data ss:Type="Number">7.7100000000000002E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-06-21</Data></Cell>
+    <Cell><Data ss:Type="Number">5.4600000000000003E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-06-22</Data></Cell>
+    <Cell><Data ss:Type="Number">5.3699999999999998E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-06-23</Data></Cell>
+    <Cell><Data ss:Type="Number">4.7699999999999999E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-06-24</Data></Cell>
+    <Cell><Data ss:Type="Number">4.2999999999999997E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-06-25</Data></Cell>
+    <Cell><Data ss:Type="Number">4.1500000000000002E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-06-26</Data></Cell>
+    <Cell><Data ss:Type="Number">6.4399999999999999E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-06-27</Data></Cell>
+    <Cell><Data ss:Type="Number">6.7000000000000004E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-06-28</Data></Cell>
+    <Cell><Data ss:Type="Number">6.4299999999999996E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-06-29</Data></Cell>
+    <Cell><Data ss:Type="Number">5.3400000000000003E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-06-30</Data></Cell>
+    <Cell><Data ss:Type="Number">4.2200000000000001E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-07-01</Data></Cell>
+    <Cell><Data ss:Type="Number">4.8800000000000003E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-07-02</Data></Cell>
+    <Cell><Data ss:Type="Number">1.9E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-07-03</Data></Cell>
+    <Cell><Data ss:Type="Number">7.9100000000000004E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-07-04</Data></Cell>
+    <Cell><Data ss:Type="Number">2.5000000000000001E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-07-05</Data></Cell>
+    <Cell><Data ss:Type="Number">1.6299999999999999E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-07-06</Data></Cell>
+    <Cell><Data ss:Type="Number">2.4199999999999999E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-07-07</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0199999999999999E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-07-08</Data></Cell>
+    <Cell><Data ss:Type="Number">1.32E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-07-09</Data></Cell>
+    <Cell><Data ss:Type="Number">8.3000000000000001E-3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-07-10</Data></Cell>
+    <Cell><Data ss:Type="Number">7.5800000000000006E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-07-11</Data></Cell>
+    <Cell><Data ss:Type="Number">9.1600000000000001E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-07-12</Data></Cell>
+    <Cell><Data ss:Type="Number">3.4500000000000003E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-07-13</Data></Cell>
+    <Cell><Data ss:Type="Number">1.9599999999999999E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-07-14</Data></Cell>
+    <Cell><Data ss:Type="Number">1.2E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-07-15</Data></Cell>
+    <Cell><Data ss:Type="Number">1.2699999999999999E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-07-16</Data></Cell>
+    <Cell><Data ss:Type="Number">1.95E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-07-17</Data></Cell>
+    <Cell><Data ss:Type="Number">1.67E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-07-18</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0500000000000001E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-07-19</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0800000000000001E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-07-20</Data></Cell>
+    <Cell><Data ss:Type="Number">1.9199999999999998E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-07-21</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5699999999999999E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-07-22</Data></Cell>
+    <Cell><Data ss:Type="Number">4.0000000000000001E-3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-07-23</Data></Cell>
+    <Cell><Data ss:Type="Number">1.26E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-07-24</Data></Cell>
+    <Cell><Data ss:Type="Number">3.9300000000000002E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-07-25</Data></Cell>
+    <Cell><Data ss:Type="Number">2.1700000000000001E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-07-26</Data></Cell>
+    <Cell><Data ss:Type="Number">3.6900000000000002E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-07-27</Data></Cell>
+    <Cell><Data ss:Type="Number">1.9800000000000002E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-07-28</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-07-29</Data></Cell>
+    <Cell><Data ss:Type="Number">2.3E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-07-30</Data></Cell>
+    <Cell><Data ss:Type="Number">4.7100000000000003E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-07-31</Data></Cell>
+    <Cell><Data ss:Type="Number">3.4500000000000003E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-08-01</Data></Cell>
+    <Cell><Data ss:Type="Number">3.6799999999999999E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-08-02</Data></Cell>
+    <Cell><Data ss:Type="Number">4.2900000000000001E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-08-03</Data></Cell>
+    <Cell><Data ss:Type="Number">4.1399999999999999E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-08-04</Data></Cell>
+    <Cell><Data ss:Type="Number">5.04E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-08-05</Data></Cell>
+    <Cell><Data ss:Type="Number">2.8799999999999999E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-08-06</Data></Cell>
+    <Cell><Data ss:Type="Number">3.6999999999999998E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-08-07</Data></Cell>
+    <Cell><Data ss:Type="Number">4.48E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-08-08</Data></Cell>
+    <Cell><Data ss:Type="Number">6.0199999999999997E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-08-09</Data></Cell>
+    <Cell><Data ss:Type="Number">8.9599999999999999E-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-08-10</Data></Cell>
+    <Cell><Data ss:Type="Number">0.122</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-08-11</Data></Cell>
+    <Cell><Data ss:Type="Number">0.21360000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-08-12</Data></Cell>
+    <Cell><Data ss:Type="Number">0.14710000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-08-13</Data></Cell>
+    <Cell><Data ss:Type="Number">0.16830000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-08-14</Data></Cell>
+    <Cell><Data ss:Type="Number">0.16189999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-08-15</Data></Cell>
+    <Cell><Data ss:Type="Number">0.15890000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-08-16</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1852</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-08-17</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2432</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-08-18</Data></Cell>
+    <Cell><Data ss:Type="Number">0.23730000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-08-19</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3115</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-08-20</Data></Cell>
+    <Cell><Data ss:Type="Number">0.26719999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-08-21</Data></Cell>
+    <Cell><Data ss:Type="Number">0.24440000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-08-22</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2908</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-08-23</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2752</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-08-24</Data></Cell>
+    <Cell><Data ss:Type="Number">0.27150000000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-08-25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.27039999999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-08-26</Data></Cell>
+    <Cell><Data ss:Type="Number">0.22889999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-08-27</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2412</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-08-28</Data></Cell>
+    <Cell><Data ss:Type="Number">0.24429999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-08-29</Data></Cell>
+    <Cell><Data ss:Type="Number">0.28420000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-08-30</Data></Cell>
+    <Cell><Data ss:Type="Number">0.23280000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-08-31</Data></Cell>
+    <Cell><Data ss:Type="Number">0.18459999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-09-01</Data></Cell>
+    <Cell><Data ss:Type="Number">0.17860000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-09-02</Data></Cell>
+    <Cell><Data ss:Type="Number">0.18779999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-09-03</Data></Cell>
+    <Cell><Data ss:Type="Number">0.17</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-09-04</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2157</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-09-05</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1981</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-09-06</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1875</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-09-07</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1963</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-09-08</Data></Cell>
+    <Cell><Data ss:Type="Number">0.21</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-09-09</Data></Cell>
+    <Cell><Data ss:Type="Number">0.19109999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-09-10</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1696</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-09-11</Data></Cell>
+    <Cell><Data ss:Type="Number">0.16520000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-09-12</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1754</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-09-13</Data></Cell>
+    <Cell><Data ss:Type="Number">0.14910000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-09-14</Data></Cell>
+    <Cell><Data ss:Type="Number">0.17949999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-09-15</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1532</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-09-16</Data></Cell>
+    <Cell><Data ss:Type="Number">0.12609999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-09-17</Data></Cell>
+    <Cell><Data ss:Type="Number">0.12130000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-09-18</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1464</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-09-19</Data></Cell>
+    <Cell><Data ss:Type="Number">0.13689999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-09-20</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1772</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-09-21</Data></Cell>
+    <Cell><Data ss:Type="Number">0.151</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-09-22</Data></Cell>
+    <Cell><Data ss:Type="Number">0.13880000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-09-23</Data></Cell>
+    <Cell><Data ss:Type="Number">0.19109999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-09-24</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2056</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-09-25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1928</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-09-26</Data></Cell>
+    <Cell><Data ss:Type="Number">0.17199999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-09-27</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1573</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-09-28</Data></Cell>
+    <Cell><Data ss:Type="Number">0.14899999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-09-29</Data></Cell>
+    <Cell><Data ss:Type="Number">0.156</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-09-30</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1653</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-10-01</Data></Cell>
+    <Cell><Data ss:Type="Number">0.16259999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-10-02</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1399</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-10-03</Data></Cell>
+    <Cell><Data ss:Type="Number">0.157</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-10-04</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1777</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-10-05</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1852</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-10-06</Data></Cell>
+    <Cell><Data ss:Type="Number">0.18440000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-10-07</Data></Cell>
+    <Cell><Data ss:Type="Number">0.16059999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-10-08</Data></Cell>
+    <Cell><Data ss:Type="Number">0.16139999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-10-09</Data></Cell>
+    <Cell><Data ss:Type="Number">0.19919999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-10-10</Data></Cell>
+    <Cell><Data ss:Type="Number">0.18490000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-10-11</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1842</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-10-12</Data></Cell>
+    <Cell><Data ss:Type="Number">0.17419999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-10-13</Data></Cell>
+    <Cell><Data ss:Type="Number">0.17230000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-10-14</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2218</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-10-15</Data></Cell>
+    <Cell><Data ss:Type="Number">0.20380000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-10-16</Data></Cell>
+    <Cell><Data ss:Type="Number">0.17780000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-10-17</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1444</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-10-18</Data></Cell>
+    <Cell><Data ss:Type="Number">0.14499999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-10-19</Data></Cell>
+    <Cell><Data ss:Type="Number">0.14910000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-10-20</Data></Cell>
+    <Cell><Data ss:Type="Number">0.14810000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-10-21</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1822</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-10-22</Data></Cell>
+    <Cell><Data ss:Type="Number">0.19120000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-10-23</Data></Cell>
+    <Cell><Data ss:Type="Number">0.18709999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-10-24</Data></Cell>
+    <Cell><Data ss:Type="Number">0.25</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-10-25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.27500000000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-10-26</Data></Cell>
+    <Cell><Data ss:Type="Number">0.25090000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-10-27</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2492</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-10-28</Data></Cell>
+    <Cell><Data ss:Type="Number">0.25</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-10-29</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2271</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-10-30</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2152</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-10-31</Data></Cell>
+    <Cell><Data ss:Type="Number">0.25380000000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-11-01</Data></Cell>
+    <Cell><Data ss:Type="Number">0.26490000000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-11-02</Data></Cell>
+    <Cell><Data ss:Type="Number">0.29189999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-11-03</Data></Cell>
+    <Cell><Data ss:Type="Number">0.30080000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-11-04</Data></Cell>
+    <Cell><Data ss:Type="Number">0.27529999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-11-05</Data></Cell>
+    <Cell><Data ss:Type="Number">0.28349999999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-11-06</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2525</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-11-07</Data></Cell>
+    <Cell><Data ss:Type="Number">0.27050000000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-11-08</Data></Cell>
+    <Cell><Data ss:Type="Number">0.25169999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-11-09</Data></Cell>
+    <Cell><Data ss:Type="Number">0.21</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-11-10</Data></Cell>
+    <Cell><Data ss:Type="Number">0.23480000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-11-11</Data></Cell>
+    <Cell><Data ss:Type="Number">0.22470000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-11-12</Data></Cell>
+    <Cell><Data ss:Type="Number">0.23180000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-11-13</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2109</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-11-14</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2397</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-11-15</Data></Cell>
+    <Cell><Data ss:Type="Number">0.254</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-11-16</Data></Cell>
+    <Cell><Data ss:Type="Number">0.26450000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-11-17</Data></Cell>
+    <Cell><Data ss:Type="Number">0.29170000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-11-18</Data></Cell>
+    <Cell><Data ss:Type="Number">0.24779999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-11-19</Data></Cell>
+    <Cell><Data ss:Type="Number">0.23330000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-11-20</Data></Cell>
+    <Cell><Data ss:Type="Number">0.22220000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-11-21</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2228</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-11-22</Data></Cell>
+    <Cell><Data ss:Type="Number">0.23130000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-11-23</Data></Cell>
+    <Cell><Data ss:Type="Number">0.22239999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-11-24</Data></Cell>
+    <Cell><Data ss:Type="Number">0.23499999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-11-25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2382</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-11-26</Data></Cell>
+    <Cell><Data ss:Type="Number">0.23860000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-11-27</Data></Cell>
+    <Cell><Data ss:Type="Number">0.23430000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-11-28</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2283</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-11-29</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2228</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-11-30</Data></Cell>
+    <Cell><Data ss:Type="Number">0.20549999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-12-01</Data></Cell>
+    <Cell><Data ss:Type="Number">0.22939999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-12-02</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2336</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-12-03</Data></Cell>
+    <Cell><Data ss:Type="Number">0.22739999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-12-04</Data></Cell>
+    <Cell><Data ss:Type="Number">0.221</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-12-05</Data></Cell>
+    <Cell><Data ss:Type="Number">0.21729999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-12-06</Data></Cell>
+    <Cell><Data ss:Type="Number">0.23980000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-12-07</Data></Cell>
+    <Cell><Data ss:Type="Number">0.22439999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-12-08</Data></Cell>
+    <Cell><Data ss:Type="Number">0.21740000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-12-09</Data></Cell>
+    <Cell><Data ss:Type="Number">0.23330000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-12-10</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2132</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-12-11</Data></Cell>
+    <Cell><Data ss:Type="Number">0.21210000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-12-12</Data></Cell>
+    <Cell><Data ss:Type="Number">0.20630000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-12-13</Data></Cell>
+    <Cell><Data ss:Type="Number">0.21959999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-12-14</Data></Cell>
+    <Cell><Data ss:Type="Number">0.21240000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-12-15</Data></Cell>
+    <Cell><Data ss:Type="Number">0.22650000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-12-16</Data></Cell>
+    <Cell><Data ss:Type="Number">0.20449999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-12-17</Data></Cell>
+    <Cell><Data ss:Type="Number">0.21410000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-12-18</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2167</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-12-19</Data></Cell>
+    <Cell><Data ss:Type="Number">0.22550000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-12-20</Data></Cell>
+    <Cell><Data ss:Type="Number">0.19620000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-12-21</Data></Cell>
+    <Cell><Data ss:Type="Number">0.19980000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-12-22</Data></Cell>
+    <Cell><Data ss:Type="Number">0.21959999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-12-23</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2261</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-12-24</Data></Cell>
+    <Cell><Data ss:Type="Number">0.19869999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-12-25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.18740000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-12-26</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2084</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-12-27</Data></Cell>
+    <Cell><Data ss:Type="Number">0.21190000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-12-28</Data></Cell>
+    <Cell><Data ss:Type="Number">0.20930000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-12-29</Data></Cell>
+    <Cell><Data ss:Type="Number">0.20269999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-12-30</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2102</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2018-12-31</Data></Cell>
+    <Cell><Data ss:Type="Number">0.21809999999999999</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>7</ActiveRow>
+     <ActiveCol>13</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
