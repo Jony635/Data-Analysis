@@ -1,7 +1,7 @@
 -- create or replace view ARPDAU as 
 select
 date(d.date) as "Date",
-ifnull(sum(t.amount * t.totalPrice)/count(distinct s.player_id), 0) as "ARPDAU"
+ifnull(sum(t.totalPrice)/count(distinct s.player_id), 0) as "ARPDAU"
 from dates as d
 
 left join sessions as s on date(s.start) = date(d.date)
